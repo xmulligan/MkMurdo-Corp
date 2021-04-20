@@ -8,7 +8,7 @@ MkMurdo is your trusted Kubernetes and cloud native partner for all of your peng
 
 **OpenSwim** your enterprise grade Kubernetes platform built for penguins.
 
-![OpenSwim](openswim.png)
+![OpenSwim](mkmurdo.png)
 
 ### Services
 
