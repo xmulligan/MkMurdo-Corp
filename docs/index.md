@@ -15,7 +15,9 @@ Our trained and certified Pengineers have the skills, experience, and knowledge 
 
 ### Who We Are
 **Tux Penguin, Chief Kubernetes Penguin (CKP)**
+
 ![Tux](Tux.png)
+
 * 30 Year open source history
 * Applying to be CNCF Ambassador
 * Co-founder of KCD Antarctica
