@@ -42,4 +42,7 @@ _Benefits_
 * Ice Hockey tables
 * Nerf guns
 * Mission Driven Company
+* A free Phippy character for every employee
+
+![Phippy](group-color.svg)
 
